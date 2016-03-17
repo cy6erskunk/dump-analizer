@@ -1,0 +1,19 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+.wrapper {
+    width: 400px;
+}
+
+.dropZone {
+    border: 2px dashed #888;
+    padding: 1em;
+    margin: 1em auto;
+    text-align: center;
+}
+
+.error {
+    color: red;
+    margin: 1em 0;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "dump-analizer",
+  "version": "0.1.0",
+  "description": "simpl dump analier",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cy6erskunk/dump-analizer.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cy6erskunk/dump-analizer/issues"
+  },
+  "homepage": "https://github.com/cy6erskunk/dump-analizer#readme"
+}
